@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🙋‍♀️ We are AchoBeta, a team that wants to do what we love.
-🏫 We are from Dongguan University of Technology(DGUT).
-🧙 Our members work at well-known companies such as ByteDance, Alibaba, Tencent, Baidu, and others.
-👩‍💻 Join us: achobeta666@outlook.com
+- 🙋‍♀️ We are AchoBeta, a team that wants to do what we love.
+- 🏫 We are from Dongguan University of Technology(DGUT).
+- 🧙 Our members work at well-known companies such as ByteDance, Alibaba, Tencent, Baidu, and others.
+- 👩‍💻 Join us: achobeta666@outlook.com
 
 <!--
 **Here are some ideas to get you started:**
